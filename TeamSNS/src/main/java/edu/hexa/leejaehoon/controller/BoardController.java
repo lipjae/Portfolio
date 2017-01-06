@@ -38,6 +38,7 @@ public class BoardController {
 //		model.addAttribute("tiplist", list);
 //		
 //	}
+	//백업용 주석
 	
 	
 	@RequestMapping(value="ttRegister")
